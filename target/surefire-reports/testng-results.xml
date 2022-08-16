@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16201" started-at="2022-08-08T07:53:23 IST" finished-at="2022-08-08T07:53:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16201" started-at="2022-08-08T07:53:23 IST" finished-at="2022-08-08T07:53:39 IST">
+      <class name="org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData">
+        <test-method status="PASS" signature="intiliaseFiles()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData@57536d79]" name="intiliaseFiles" is-config="true" duration-ms="1793" started-at="2022-08-08T07:53:21 IST" finished-at="2022-08-08T07:53:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiliaseFiles -->
+        <test-method status="PASS" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData@57536d79]" name="OpenBrowserAndURL" is-config="true" duration-ms="6381" started-at="2022-08-08T07:53:23 IST" finished-at="2022-08-08T07:53:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method status="PASS" signature="Login_Runner_onlyPasitiveData()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData@57536d79]" name="Login_Runner_onlyPasitiveData" duration-ms="4642" started-at="2022-08-08T07:53:30 IST" finished-at="2022-08-08T07:53:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_onlyPasitiveData -->
+        <test-method status="PASS" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData@57536d79]" name="closeBroser" is-config="true" duration-ms="4425" started-at="2022-08-08T07:53:34 IST" finished-at="2022-08-08T07:53:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method status="PASS" signature="FLushReports()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData@57536d79]" name="FLushReports" is-config="true" duration-ms="663" started-at="2022-08-08T07:53:39 IST" finished-at="2022-08-08T07:53:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FLushReports -->
+      </class> <!-- org.Selenium.GcReddy.batchNo32.LoginActions_PositiveData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

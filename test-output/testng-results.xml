@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T19:43:12 IST" name="Default suite" finished-at="2022-07-31T19:44:09 IST" duration-ms="56853">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T19:43:12 IST" name="Default test" finished-at="2022-07-31T19:44:09 IST" duration-ms="56853">
+      <class name="org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData">
+        <test-method is-config="true" signature="intiliaseFiles()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:11 IST" name="intiliaseFiles" finished-at="2022-07-31T19:43:12 IST" duration-ms="1400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiliaseFiles -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:13 IST" name="OpenBrowserAndURL" finished-at="2022-07-31T19:43:19 IST" duration-ms="6057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_MultipleData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:19 IST" name="Login_Runner_MultipleData" data-provider="anyname" finished-at="2022-07-31T19:43:26 IST" duration-ms="6967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Welcome!]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_MultipleData -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:26 IST" name="closeBroser" finished-at="2022-07-31T19:43:26 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:26 IST" name="OpenBrowserAndURL" finished-at="2022-07-31T19:43:30 IST" duration-ms="4078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_MultipleData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:30 IST" name="Login_Runner_MultipleData" data-provider="anyname" finished-at="2022-07-31T19:43:37 IST" duration-ms="6672" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_MultipleData -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:37 IST" name="closeBroser" finished-at="2022-07-31T19:43:37 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:37 IST" name="OpenBrowserAndURL" finished-at="2022-07-31T19:43:41 IST" duration-ms="3666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_MultipleData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:41 IST" name="Login_Runner_MultipleData" data-provider="anyname" finished-at="2022-07-31T19:43:47 IST" duration-ms="6640" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalie]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_MultipleData -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:47 IST" name="closeBroser" finished-at="2022-07-31T19:43:48 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:48 IST" name="OpenBrowserAndURL" finished-at="2022-07-31T19:43:51 IST" duration-ms="3483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_MultipleData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:51 IST" name="Login_Runner_MultipleData" data-provider="anyname" finished-at="2022-07-31T19:43:58 IST" duration-ms="6546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[username or email is required]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_MultipleData -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:58 IST" name="closeBroser" finished-at="2022-07-31T19:43:58 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method is-config="true" signature="OpenBrowserAndURL()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:43:58 IST" name="OpenBrowserAndURL" finished-at="2022-07-31T19:44:02 IST" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowserAndURL -->
+        <test-method signature="Login_Runner_MultipleData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:44:02 IST" name="Login_Runner_MultipleData" data-provider="anyname" finished-at="2022-07-31T19:44:08 IST" duration-ms="6528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[login failed]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Runner_MultipleData -->
+        <test-method is-config="true" signature="closeBroser()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:44:08 IST" name="closeBroser" finished-at="2022-07-31T19:44:08 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method is-config="true" signature="FLushReports()[pri:0, instance:org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData@73e22a3d]" started-at="2022-07-31T19:44:08 IST" name="FLushReports" finished-at="2022-07-31T19:44:09 IST" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FLushReports -->
+      </class> <!-- org.Selenium.GcReddy.batchNo32.LoginActions_MultipleData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
